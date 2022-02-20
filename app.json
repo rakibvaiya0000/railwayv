@@ -3,7 +3,6 @@
     "description": "Deplroku.",
     "keywords": [
         "VNC",
-
         "noVNC"
     ],
     "env": {},
